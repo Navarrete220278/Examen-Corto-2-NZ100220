@@ -36,7 +36,7 @@ public class RSA {
 
     public static void main(String[] args) {
         RSA rsa = new RSA();
-        String plaintext = "Hello, World!";
+        String plaintext = "Mauricio Antonio Navarrete Zuniga NZ100220!";
         System.out.println("Plaintext: " + plaintext);
 
         // Cifrar
